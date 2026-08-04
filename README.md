@@ -1,0 +1,1 @@
+# Kinetex Desktop client builds - private distribution point. Each release is tagged client-vX.Y.Z. Download the .zip asset from the release page.
